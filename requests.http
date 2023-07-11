@@ -1,0 +1,11 @@
+### Add
+curl https://localhost:7212/Calculator/add/3/2
+
+### Subtract
+curl https://localhost:7212/Calculator/subtract/3/2
+
+### Multiply
+curl https://localhost:7212/Calculator/multiply/3/2
+
+### Divide
+curl https://localhost:7212/Calculator/divide/4/2
